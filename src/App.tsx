@@ -15,7 +15,7 @@ export default function App(){
       <div className="wrap">
         <div className="hero">
           <h1>Shop Math Workshop</h1>
-          <p className="sub">v46 — Voice input on Read the Ruler (Web Speech API), adaptive engine intact.</p>
+          <p className="sub">v47 — Voice input on Read the Ruler (Web Speech API), adaptive engine intact.</p>
           <div className="grid">
             <div className="card"><h3>Read the Ruler</h3><p className="mini">Adaptive pointer drill + voice (Chrome/Edge).</p><Link className="btn" to="/read">Open module</Link></div>
             <div className="card"><h3>Find the Line</h3><p className="mini">Drag the pointer to the requested tick.</p><Link className="btn" to="/find">Open module</Link></div>
